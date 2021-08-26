@@ -1,15 +1,10 @@
-### travelhoy
+# Travel Advisor
 
-### To Get Started
-Use `npm install` to install all the dependencies from package.json
+### [Live Site](https://prasannabhat018.github.io/TravalAd/)
 
-### To start the Application
-Use `npm start` in your cmd/bash to run the application.
+![Travel Advisor](https://i.ibb.co/qph2cZn/image.pngg)
 
-The application will reload automatically if there are any changes in the code.
+## Introduction
+Built and Deployed an advanced Travel Companion Application using Google Maps. With Geolocation, Google Maps API, Searching for places, Fetching restaurants, hotels and attractions based on location from specialized Rapid APIs, data filtering and much more, this TravalAd App is very useful Maps Application.
 
-### To build an Optimized Build
-Use `npm run build` to build an optimized build of your Application
-
-Demo link:
-Hosted on ...
+Setup: run ```npm i && npm start``` to start the development server
