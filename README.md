@@ -2,6 +2,6 @@
 
 
 ## Introduction
-Built and Deployed an advanced Travel Companion Application using Google Maps. With Geolocation, Google Maps API, Searching for places, Fetching restaurants, hotels and attractions based on location from specialized Rapid APIs, data filtering and much more, this TravalAd App is very useful Maps Application.
+A travel advisor app made in ReactJS using Google Maps API and RapidAPI which shows you nearest Restaurants , Attractions and Hotels around you based on your location with Weather which is Data Filtered to make your travel experience smoother.
 
 Setup: run ```npm i && npm start``` to start the development server
